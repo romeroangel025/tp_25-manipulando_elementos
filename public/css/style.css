@@ -34,12 +34,18 @@ body {
   background-size: cover;
 }
 .fondoMoviesList{
+  color:white;
   background-image: url('/img/avengers.jpg');
   background-repeat: no-repeat;
   background-size: 50%;
   width: 50%;
   background-position: right;
 }
+.a_ModoOscuro a {
+  color: rgb(247, 248, 248)!important;
+  text-decoration: none !important;
+}
+
 .fondoCRUD{
   padding: 30px;
   background-image: url('/img/peliculas.png');
